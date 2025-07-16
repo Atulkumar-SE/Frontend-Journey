@@ -1,1 +1,2 @@
-console.log("Atul Jaiswal")
+console.log("Atul Jaiswal");
+alert("Hello Universe");
